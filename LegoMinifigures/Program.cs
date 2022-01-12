@@ -7,13 +7,15 @@ namespace LegoMinifigures
     {
         static void Main(string[] args)
         {
-            Batman batman1 = new Batman();
+            Batman batman1 = new Batman()
+            {
+                Accessories = "belt",
+                Hat = "mask",
+                Torso = "ripped"
+            };
+
             Chef chef1 = new Chef();
             Pirate pirate1 = new Pirate();
-
-            batman1.Accessories = "belt";
-            batman1.Hat = "mask";
-            batman1.Torso = "ripped";
 
             chef1.Accessories = "spatula";
             chef1.Hat = "white chef hat";
