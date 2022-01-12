@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LegoMinifigures", "LegoMinifigures\LegoMinifigures.csproj", "{62EB4726-AF43-4BFC-BE74-7A6B51FB6E27}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62EB4726-AF43-4BFC-BE74-7A6B51FB6E27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62EB4726-AF43-4BFC-BE74-7A6B51FB6E27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62EB4726-AF43-4BFC-BE74-7A6B51FB6E27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62EB4726-AF43-4BFC-BE74-7A6B51FB6E27}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A57D56F-B028-461A-944E-E3DD955EF8C9}
+	EndGlobalSection
+EndGlobal
