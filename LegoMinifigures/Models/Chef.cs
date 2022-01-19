@@ -4,22 +4,22 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace LegoMinifigures.Figures
+namespace LegoMinifigures.Models
 {
-    class Pirate
+    class Chef
     {
         public string Hat { get; set; }
         public string Torso { get; set; }
         public string Accessories { get; set; }
 
-        public void Hobble()
+        public void CookBurger()
         {
-            Console.WriteLine("Hobbles around on peg leg.");
+            Console.WriteLine("A wild burger appears.");
         }
 
-        public void Fight()
+        public void ThrowSpatula()
         {
-            Console.WriteLine("Sword is swung and nearly connects with its target.");
+            Console.WriteLine("Spatula is thrown across the room at the enemy.");
         }
     }
 }
